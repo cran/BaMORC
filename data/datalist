@@ -1,0 +1,3 @@
+MSE_sample: aaFreq chemicalShifts
+RefDB: RefDB_data
+bamorc_data: AA57OLMatrix AA57OLWeights AvgCov.t CAMuTable CASdTable CBMuTable CBSdTable CarbonCov.t ID RefDB.StatCA RefDB.StatCB aaCodes1Letter19 aaCodes1Letter20 aaCodes3Letter1stCap aaCodes3LetterAllCap cname inverseMatrices
