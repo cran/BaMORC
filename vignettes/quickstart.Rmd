@@ -2,7 +2,7 @@
 title: "Getting started with BaMORC"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Getting started with httr}
+  %\VignetteIndexEntry{Getting started with BaMORC}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---

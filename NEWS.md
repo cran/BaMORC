@@ -1,3 +1,6 @@
+# BaMORC 1.0.1
+## Minor change
+Update the VignetteIndexEntry.
 
 
 # BaMORC 1.0

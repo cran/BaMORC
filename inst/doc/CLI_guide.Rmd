@@ -2,7 +2,7 @@
 title: "CLI Guide"
 output: rmarkdown::html_vignette
 vignette: >
-  %\VignetteIndexEntry{Getting started with httr}
+  %\VignetteIndexEntry{CLI Guide}
   %\VignetteEngine{knitr::rmarkdown}
   %\VignetteEncoding{UTF-8}
 ---
